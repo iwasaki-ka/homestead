@@ -1,0 +1,93 @@
+h1
+{
+    font-size: 20px;
+border-bottom: 1px solid black;
+margin: 20px 0;
+padding-bottom: 20px;
+display: flex;
+align-items: center;
+}
+
+li
+{
+    margin-bottom: 10px;
+}
+
+.container
+{
+    width: 500px;
+    margin:40px auto;
+}
+
+.re{
+    font-size: 14px;
+
+}
+
+.button{
+    font-size: 12px;
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 3px 10px;
+    text-decoration: none;
+
+}
+
+#create{
+    background-color: aqua;
+    margin-left: auto;
+}
+
+#edit{
+    background-color: aqua;
+    margin-left: auto;
+}
+
+#search{
+    background-color: orange;
+    margin-left: 10px;
+}
+
+
+
+
+input, textarea{
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+.btn{
+    text-align: right;
+}
+
+.error{
+    color: red;
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+
+button{
+    margin-left: 10px;
+    vertical-align:  2px;
+}
+
+h2{
+    font-size: 18px;
+    margin-top: 50px;
+
+}
+
+.comment{
+    display: flex;
+}
+
+.comment button{
+    width:90px;
+    height: 30px;
+}
+
+.dele{
+    display: inline-block;
+}
